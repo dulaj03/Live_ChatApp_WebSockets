@@ -1,5 +1,7 @@
 # Real time Public Chat Room using WebSockets
 
+Web based Public Live Chat app development using WebSockets for a website
+
 ## Prerequisites :-
 - Node.js
 - Nodemon

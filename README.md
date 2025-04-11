@@ -1,12 +1,19 @@
-## Real time Public Chat Room using WebSockets
+# Real time Public Chat Room using WebSockets
 
-# Prerequisites :-
+## Prerequisites :-
 - Node.js
-- Sockets.io
-- Express.js
+- Nodemon
+- Sockets.io Library
+- Express Framework
 - html / css / js
 
-# Features :-
+## Install Dependancies :-
+- npm i -d nodemon
+- npm i socket.io
+- npm i express
+
+## Features :-
 - Real time chatting
 - Connecting more people
 - Public chatting
+- Notifications

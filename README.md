@@ -15,7 +15,9 @@ Web based Public Live Chat app development using WebSockets for a website
 - npm i express
 
 ## Features :-
-- Real time chatting
+- Real-time chatting
+- Selecting ongoing ChatRooms
+- User Showing
+- Real-time User Activity
 - Connecting more people
-- Public chatting
-- Notifications
+- User Friendly Public chatting

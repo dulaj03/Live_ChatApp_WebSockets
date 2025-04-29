@@ -14,6 +14,11 @@ Web based Public Live Chat app development using WebSockets for a website
 - npm i socket.io
 - npm i express
 
+## To Run, open Terminal or CMD under Terminal :- 
+- cd Chat Room
+- cd server
+- npm run dev
+
 ## Features :-
 - Real-time chatting
 - Selecting ongoing ChatRooms

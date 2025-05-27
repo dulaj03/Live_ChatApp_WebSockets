@@ -1,6 +1,6 @@
 # Real time Public Chat Room using WebSockets
 
-Web based Public Live Chat app development using WebSockets for a website
+Web based Public Live Chat app development using WebSockets for a website. Main Purposes of this implementation is to engage community interactions and expose live user communication.
 
 ## Prerequisites :-
 - Node.js
@@ -10,14 +10,14 @@ Web based Public Live Chat app development using WebSockets for a website
 - html / css / js
 
 ## Install Dependancies :-
-- npm i -d nodemon
-- npm i socket.io
-- npm i express
+- ``` npm i -d nodemon ```
+- ``` npm i socket.io ```
+- ``` npm i express ```
 
 ## To Run, open Terminal or CMD under Terminal :- 
-- cd Chat Room
-- cd server
-- npm run dev
+- ``` cd Chat Room ```
+- ``` cd server ```
+- ``` npm run dev ```
 
 ## Features :-
 - Real-time chatting
